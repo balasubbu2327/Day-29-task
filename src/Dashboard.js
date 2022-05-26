@@ -145,7 +145,7 @@ export function Dashboard() {
           </div>
           <div className="card mt-3">
             <div className="card-body">
-              <img className="dashboardimg img-responsive" src="https://ubiq.co/analytics-blog/wp-content/uploads/2020/07/create-project-management-dashboard.jpeg"  />
+              <img className="dashboardimg img-responsive" src="https://ubiq.co/analytics-blog/wp-content/uploads/2020/07/create-project-management-dashboard.jpeg" alt="" />
               <span>
                 Add some quality, svg illustrations to your project courtesy of
                 unDraw, a constantly updated collection of beautiful svg images
