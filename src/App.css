@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;900&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+}
+.sidenav {
+  background-color: #fa3799c4;
+  
+}
+.navlist li a{
+ 
+  text-decoration: none;
+  color: #fff;
+}
+li.nav-item {
+  padding: 10px 20px;
+  font-size:15px;
+  color: #fff;
+
+}
+hr {
+  margin: 0.5rem 0;
+  color: inherit;
+  background-color: #fff;
+  border: 0;
+  opacity: .25;
+}
+.admin{
+  font-size:20px;
+}
+.topnavserach{
+  display: flex;
+}
+.sidnavdiv{
+  height:100vh;
+}
+.sidebar-heading {
+  text-align:left;
+  padding: 0 1rem;
+  font-weight: 800;
+  font-size: .75rem;
+  text-transform: uppercase!important;
+  color: rgba(255,255,255,.4);
+}
+.icon {
+  padding: 0px 10px;
+}
+.border-left-primary {
+  border-left: 0.25rem solid #4e73df;
+}
+.border-left-success {
+  border-left: 0.25rem solid #1cc88a;
+}
+.border-left-info {
+  border-left: 0.25rem solid #36b9cc;
+}
+.border-left-warning{
+  border-left: 0.25rem solid #f6c23e;
+}
+.cardicon{
+  display: flex;
+  justify-content:space-between
+}
+.monthly {
+  font-size: .7rem;
+  color: #4e73df;
+  font-weight: 700;
+
+}
+.annual{
+  font-size: .7rem;
+  color: #1cc88a;
+  font-weight: 700;
+}
+.task{
+  font-size: .7rem;
+  color: #36b9cc;
+  font-weight: 700;
+}
+.pending{
+  font-size: .7rem;
+  color: #f6c23e;
+  font-weight: 700;
+}
+.card-text{
+  color: #5a5c69;
+  font-weight: 700!important;
+  font-size: 1.25rem;
+}
+.dashicon{
+  font-weight: 900;
+  font-size: 2em;
+  color: #dddfeb!important;
+}
+.topnavicon{
+  font-weight: 900;
+  font-size: 1.5em;
+  color: #dddfeb;
+}
+img.img-profile.rounded-circle {
+  width: 2em;
+  height: 2em;object-fit: cover;
+}
+.profilename {
+  color: #858796;
+  font-size: 80%;
+    font-weight: 400;
+}
+.text {
+  color: rgba(227, 216, 216, 0.5)!important;
+}
+.dashboardimg{
+  width: 410px;
+}
